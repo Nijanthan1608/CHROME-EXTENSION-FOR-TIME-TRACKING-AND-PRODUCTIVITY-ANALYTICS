@@ -22,3 +22,13 @@ The extension uses Chrome Extension APIs such as Tabs API, Storage API, and Runt
 Data analytics is an important part of this project. The extension calculates metrics such as total productive time, total unproductive time, productivity percentage, and daily or weekly usage trends. This helps users evaluate their performance and make informed decisions to improve their focus and efficiency. Optional features may include goal setting, productivity alerts, daily summaries, and recommendations to reduce time spent on distracting websites.
 Security and privacy are also critical considerations. The extension only tracks website URLs and time spent, without collecting sensitive personal information. Data transmission between the extension and backend server is secured using HTTPS. Proper authentication and authorization mechanisms ensure that only authorized users can access their data.
 In conclusion, the Chrome Extension for Time Tracking and Productivity Analytics is a useful productivity tool that helps users monitor their browsing habits, identify time-wasting activities, and improve their efficiency. By combining Chrome Extension APIs, modern frontend frameworks, backend services, and database storage, the system provides a complete solution for real-time time tracking and productivity analysis. This project demonstrates important concepts such as browser extension development, frontend-backend integration, database management, and data analytics, making it an excellent full-stack engineering project.
+
+OUTPUT:
+
+<img width="1430" height="580" alt="Image" src="https://github.com/user-attachments/assets/620c4083-7225-4062-b439-ae43873e8caf" />
+
+<img width="1428" height="755" alt="Image" src="https://github.com/user-attachments/assets/2861a02d-5233-42c8-b178-b8a678bc8a79" />
+
+<img width="1431" height="745" alt="Image" src="https://github.com/user-attachments/assets/cf735ea5-ca8d-4d22-ab50-7f220599d7be" />
+
+<img width="1425" height="757" alt="Image" src="https://github.com/user-attachments/assets/718ff3d2-7c1e-41a0-accf-a812b01791f4" />
